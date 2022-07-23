@@ -35,12 +35,10 @@
 
 ![screenshot](https://i.ibb.co/V98dSJ2/Screenshot-2022-07-23-153155.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+I use localstorege as token place when user open the web page token will be created automaticly if user don't have token
+Users can add image with url
+Users can search for specific image
+Users can delete specific image
 
 ### Built With
 
